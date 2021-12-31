@@ -22,21 +22,21 @@ class TplNosTableSeeder extends Seeder
             0 => 
             array (
                 'id' => 1,
-                'created_at' => '2021-07-28 09:06:37',
-                'updated_at' => '2021-07-28 12:19:18',
+                'created_at' => '2021-07-28 10:18:47',
+                'updated_at' => '2021-07-28 10:18:47',
                 'deleted_at' => NULL,
-                'tpl_no' => '11111111',
+                'tpl_no' => '1',
                 'title' => '模板1',
                 'param' => NULL,
             ),
             1 => 
             array (
                 'id' => 2,
-                'created_at' => '2021-07-28 13:37:45',
-                'updated_at' => '2021-07-28 13:37:45',
+                'created_at' => '2021-07-28 11:00:54',
+                'updated_at' => '2021-07-28 11:00:54',
                 'deleted_at' => NULL,
-                'tpl_no' => 'aaaaa123',
-                'title' => '测试',
+                'tpl_no' => '22222222',
+                'title' => '模板2',
                 'param' => NULL,
             ),
         ));
