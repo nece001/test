@@ -25,7 +25,7 @@ class TplNosTableSeeder extends Seeder
                 'created_at' => '2021-07-28 10:18:47',
                 'updated_at' => '2021-07-28 10:18:47',
                 'deleted_at' => NULL,
-                'tpl_no' => '1',
+                'tpl_no' => '2',
                 'title' => '模板1',
                 'param' => NULL,
             ),
